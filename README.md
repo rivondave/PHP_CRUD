@@ -14,7 +14,12 @@ First implementation of CRUD using php
 
 
 --- USERNAME
+
+
 --- EMAIL
+
+
+
 --- PASSWORD
 
 
