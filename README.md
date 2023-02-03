@@ -10,16 +10,19 @@ First implementation of CRUD using php
 
 
 2. the table should contain 3 columns 
+
+
+
 --- USERNAME
 --- EMAIL
 --- PASSWORD
 
 
-Open the db.php file and edit the parameters for your host and username and password to your own.
+3. Open the db.php file and edit the parameters for your host and username and password to your own.
 
 
-Ensure to unzip the image file.
+4. Ensure to unzip the image file.
 
 
 
-put all in the same folder before you run.
+5. put all in the same folder before you run.
